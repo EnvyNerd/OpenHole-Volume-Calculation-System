@@ -75,12 +75,8 @@ src/
 │   └── InvalidRecordException.java # Custom exception for invalid file data
 ├── model/
 │   └── HoleInterval.java     # Data model for an interval
-├── gui/
-│   ├── OpenHoleCalculatorGUI.java # Swing GUI (optional)
-│   └── chart/               # Lightweight chart component
-│       └── VolumeBarChart.java
 └── data/
-    └── sample_input.txt     # Sample input data (optional)
+    └── Real_Offshore.csv     # Sample input data (optional)
 ```
 
 ---
